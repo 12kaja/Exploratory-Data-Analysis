@@ -1,14 +1,8 @@
-	EDA (Exploratory Data Analysis of IPL Matches)
-      1 January 2023 to 15 March 2023
+Yess Infotech Pvt Ltd
+Data Science
+11-2022 to 04-2023
+During my internship, I developed strong skills in data analysis, data visualization, and machine learning. Utilized advanced data manipulation and Exploratory Data Analysis (EDA) techniques on large and complex datasets. Construct visuals and dashboards in Tableau, Power Bi to facilitate business intelligence. Built and tested machine learning models to enable predictive capabilities. Developed proficiency in coding SOL databases. I was able to apply these skills to real-world business problems and make a measurable impact on the company's data processes. I amexcited to bring and enhance these skills to a new role in the data science and analytics field.
+ 
 
- Library in python: -Panda
- Objectives of this project: 
-I am used IPL 2008-2017 matches dataset in this project. 
-To find the team that won the most number of matches in a season.
-To find the team that lost the most number of matches in a season.
-Does winning toss increases the chances of victory.
-To find the player with the most player of the match awards.
-To find the city that hosted the maximum number of IPL matches.
-To find the most winning team for each season.
-To find the on-field umpire with the maximum number of IPL matches.
-To find the biggest victories in IPL while defending a total and while chasing a total.
+ 
+    
